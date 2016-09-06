@@ -22,10 +22,6 @@ namespace koddelning
             MessageBox.Show("Det här är en knapp");
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("nu är allt fixat");
-           
-        }
+       
     }
 }
