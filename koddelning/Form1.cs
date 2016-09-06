@@ -24,7 +24,8 @@ namespace koddelning
 
         private void button2_Click(object sender, EventArgs e)
         {
-            //Ny text
+            MessageBox.Show("nu är allt fixat");
+           
         }
     }
 }
