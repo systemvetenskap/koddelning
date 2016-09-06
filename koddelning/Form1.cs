@@ -20,6 +20,7 @@ namespace koddelning
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Det här är en knapp. Ja det har du rätt i");
+
         }
 
         private void button2_Click(object sender, EventArgs e)
