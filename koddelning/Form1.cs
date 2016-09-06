@@ -19,7 +19,7 @@ namespace koddelning
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Det här är en knapp");
+            MessageBox.Show("Det här är en knapp som visar en text");
         }
     }
 }
