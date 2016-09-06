@@ -21,5 +21,10 @@ namespace koddelning
         {
             MessageBox.Show("Personen är sparad i databasen.");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
